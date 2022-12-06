@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25514" started-at="2022-12-01T03:22:44Z" finished-at="2022-12-01T03:23:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25514" started-at="2022-12-01T03:22:44Z" finished-at="2022-12-01T03:23:10Z">
+      <class name="testNGImplementation.CreateNewOrganization">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:testNGImplementation.CreateNewOrganization@64cd705f]" name="testSetUp" is-config="true" duration-ms="1132" started-at="2022-11-30T22:22:44Z" finished-at="2022-11-30T22:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method status="PASS" signature="classSetUp()[pri:0, instance:testNGImplementation.CreateNewOrganization@64cd705f]" name="classSetUp" is-config="true" duration-ms="5422" started-at="2022-11-30T22:22:45Z" finished-at="2022-11-30T22:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetUp -->
+        <test-method status="PASS" signature="methodSetUp()[pri:0, instance:testNGImplementation.CreateNewOrganization@64cd705f]" name="methodSetUp" is-config="true" duration-ms="2908" started-at="2022-11-30T22:22:51Z" finished-at="2022-11-30T22:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method status="PASS" signature="createNewOrganizationTest()[pri:0, instance:testNGImplementation.CreateNewOrganization@64cd705f]" name="createNewOrganizationTest" duration-ms="13512" started-at="2022-11-30T22:22:54Z" finished-at="2022-11-30T22:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewOrganizationTest -->
+        <test-method status="PASS" signature="methodTearDown()[pri:0, instance:testNGImplementation.CreateNewOrganization@64cd705f]" name="methodTearDown" is-config="true" duration-ms="1686" started-at="2022-11-30T22:23:07Z" finished-at="2022-11-30T22:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method status="PASS" signature="classTearDown()[pri:0, instance:testNGImplementation.CreateNewOrganization@64cd705f]" name="classTearDown" is-config="true" duration-ms="834" started-at="2022-11-30T22:23:09Z" finished-at="2022-11-30T22:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+        <test-method status="PASS" signature="testTearDown()[pri:0, instance:testNGImplementation.CreateNewOrganization@64cd705f]" name="testTearDown" is-config="true" duration-ms="1" started-at="2022-11-30T22:23:10Z" finished-at="2022-11-30T22:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTearDown -->
+      </class> <!-- testNGImplementation.CreateNewOrganization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
